@@ -1,3 +1,3 @@
 # hello-world
-my first repository
-Marija here, i like PHP, JavaScript, html, css and SQL.
+My first repository
+Marija here, i like PHP, JavaScript, HTML, CSS and MySQL.
